@@ -11,6 +11,6 @@ Steps to Run Project
 
 ## You can now access your project at localhost:8000 :)
 
-## If for some reason your project stop working do these:
+## If for some reason your project stops working do these:
 - `composer install`
 - `php artisan migrate`
