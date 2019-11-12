@@ -6,6 +6,7 @@ Steps to Run Project
 - Run `composer install` or ```php composer.phar install```
 - Run `php artisan key:generate` 
 - Run `php artisan migrate`
+- Configure .env file
 - Run `php artisan db:seed` to run seeders, if any.
 - Run `php artisan serve`
 
